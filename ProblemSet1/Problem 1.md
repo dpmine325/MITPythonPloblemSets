@@ -1,4 +1,5 @@
 **P1**
+
 Assume s is a string of lower case characters.
 
 Write a program that counts up the number of vowels contained in the string s. Valid vowels are: 'a', 'e', 'i', 'o', and 'u'. For example, if s = 'azcbobobegghakl', your program should print:
@@ -6,11 +7,13 @@ Write a program that counts up the number of vowels contained in the string s. V
 Number of vowels: 5
 
 **P2**
+
 Assume s is a string of lower case characters.
 
 Write a program that prints the number of times the string 'bob' occurs in s. For example, if s = 'azcbobobegghakl', then your program should print
 
 **P3**
+
 Assume s is a string of lower case characters.
 
 Write a program that prints the longest substring of s in which the letters occur in alphabetical order. For example, if s = 'azcbobobegghakl', then your program should print
